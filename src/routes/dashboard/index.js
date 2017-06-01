@@ -68,7 +68,7 @@ function Dashboard ({ dashboard }) {
           <Completed data={completed} />
         </Card>
       </Col>
-      {/*<Col lg={8} md={24}>
+      {/* <Col lg={8} md={24}>
         <Card bordered={false} {...bodyStyle}>
           <Browser data={browser} />
         </Card>
