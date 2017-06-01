@@ -55,13 +55,13 @@ const Login = ({
           <Button type="primary" size="large" onClick={handleOk} loading={loginLoading}>
             Sign in
           </Button>
-          <p>
-            <span>Username：guest</span>
-            <span>Password：guest</span>
-          </p>
+
         </Row>
 
-      </form>
+      </form>{/*<p>
+     <span>Username：guest</span>
+     <span>Password：guest</span>
+     </p>*/}
     </div>
   )
 }

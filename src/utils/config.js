@@ -1,6 +1,6 @@
 module.exports = {
-  name: 'dva Admin',
-  prefix: 'dvaAdmin',
+  name: 'Test Admin',
+  prefix: 'TestAdmin',
   footerText: 'JiaChencTech  © 2017 CJX',
   logo: '/logo.png',
   iconFontCSS: '/iconfont.css',
