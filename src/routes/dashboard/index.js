@@ -68,7 +68,7 @@ function Dashboard ({ dashboard }) {
           <Completed data={completed} />
         </Card>
       </Col>
-      <Col lg={8} md={24}>
+      {/*<Col lg={8} md={24}>
         <Card bordered={false} {...bodyStyle}>
           <Browser data={browser} />
         </Card>
@@ -82,7 +82,7 @@ function Dashboard ({ dashboard }) {
         <Card bordered={false} bodyStyle={{ ...bodyStyle.bodyStyle, padding: 0 }}>
           <User {...user} />
         </Card>
-      </Col>
+      </Col>*/}
     </Row>
   )
 }
