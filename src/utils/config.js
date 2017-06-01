@@ -1,7 +1,7 @@
 module.exports = {
-  name: 'AntD Admin',
-  prefix: 'antdAdmin',
-  footerText: 'Ant Design Admin  © 2017 zuiidea',
+  name: 'dva Admin',
+  prefix: 'dvaAdmin',
+  footerText: 'JiaChencTech  © 2017 CJX',
   logo: '/logo.png',
   iconFontCSS: '/iconfont.css',
   iconFontJS: '/iconfont.js',
