@@ -64,8 +64,8 @@ const Dashboard = Mock.mock({
   'completed|12': [
     {
       'name|+1': 2008,
-      'Task complete|200-1000': 1,
-      'Cards Complete|200-1000': 1,
+      'TaskComplete|200-1000': 1,
+      'CardsComplete|200-1000': 1,
     },
   ],
   'comments|5': [
